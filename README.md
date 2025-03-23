@@ -1,2 +1,2 @@
 # pythonScripts
-Python scripts I have as part of CND Dual Degree Coursework at IIIT-H
+Python scripts I have created as a part of my CND Dual Degree Coursework at IIIT-H
